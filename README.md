@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nithikpackt" 1  alt="nithikpackt" /></a> </p>
 
--  I’m currently working on [a book "Bash Shell Scripting for Pentesters"](https://github.com/PacktPublishing/Bash-Shell-Scripting-for-Pentesters/tree/main)
+-  I’m currently working on a book  ["Bash Shell Scripting for Pentesters"](https://github.com/PacktPublishing/Bash-Shell-Scripting-for-Pentesters/tree/main)
 
 - ‍ All of my projects are available at [https://github.com/nithikpackt](https://github.com/nithikpackt)
 
