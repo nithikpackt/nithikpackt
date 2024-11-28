@@ -3,114 +3,335 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithikpackt&label=Profile%20views&color=0e75b6&style=flat" alt="nithikpackt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nithikpackt" alt="nithikpackt" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nithikpackt" 1  alt="nithikpackt" /></a> </p>
 
-- 🔭 I’m currently working on [a book "Bash Shell Scripting for Pentesters"](https://github.com/PacktPublishing/Bash-Shell-Scripting-for-Pentesters/tree/main)
+-  I’m currently working on [a book "Bash Shell Scripting for Pentesters"](https://github.com/PacktPublishing/Bash-Shell-Scripting-for-Pentesters/tree/main)
 
-- 👨‍💻 All of my projects are available at [https://github.com/nithikpackt](https://github.com/nithikpackt)
+- ‍ All of my projects are available at [https://github.com/nithikpackt](https://github.com/nithikpackt)
+
+-  How to reach me **nithikpradeep12@gmail.com**
+
+<h3 align="left">Published books that I have contributed to as a TE:</h3>
+<details>
+  <summary>:arrow_right:<button>Published Books</button></summary>
+  <table border="1">
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>ISBN</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>ISBN</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Building a DevOps Culture</td>
+      <td>180024825</td>
+    </tr>
+    <tr>
+      <td>Azure Architecture Explained</td>
+      <td>18376348</td>
+    </tr>
+    <tr>
+      <td>Mastering Tornado</td>
+      <td>18032465</td>
+    </tr>
+    <tr>
+      <td>Demystifying Ansible Automation</td>
+      <td>18032449</td>
+    </tr>
+    <tr>
+      <td>Mobile App Reverse Engineering</td>
+      <td>18010733</td>
+    </tr>
+    <tr>
+      <td>Mastering Elastic Kubernetes Service on AWS</td>
+      <td>18032312</td>
+    </tr>
+    <tr>
+      <td>The Linux DevOps Handbook</td>
+      <td>18032456</td>
+    </tr>
+    <tr>
+      <td>Cryptography Algorithms</td>
+      <td>17896171</td>
+    </tr>
+    <tr>
+      <td>The Art of Social Engineering</td>
+      <td>18046136</td>
+    </tr>
+    <tr>
+      <td>NGINX HTTP Server</td>
+      <td>18354698</td>
+    </tr>
+    <tr>
+      <td>PowerShell for Penetration Testing</td>
+      <td>18350824</td>
+    </tr>
+    <tr>
+      <td>Demystifying Cryptography with OpenSSl 2.0</td>
+      <td>18006600</td>
+    </tr>
+    <tr>
+      <td>The Self-Taught Cloud Computing Engineer</td>
+      <td>18010733</td>
+    </tr>
+    <tr>
+      <td>Microsoft Azure Fundamentals Certification Guide</td>
+      <td>18061237</td>
+    </tr>
+    <tr>
+      <td>Linux Device Driver Development</td>
+      <td>18032400</td>
+    </tr>
+    <tr>
+      <td>Industrial Cybersecurity</td>
+      <td>18002020</td>
+    </tr>
+    <tr>
+      <td>Secure Continuous Delivery on Google Cloud</td>
+      <td>180012921</td>
+    </tr>
+    <tr>
+      <td>Policy Design in the Age of Digital Adoption</td>
+      <td>18011171</td>
+    </tr>
+    <tr>
+      <td>Obsessing with Greatness</td>
+      <td>18032480</td>
+    </tr>
+    <tr>
+      <td>Security Monitoring and Detection</td>
+      <td>163763211</td>
+    </tr>
+    <tr>
+      <td>Becoming CCNA Certified</td>
+      <td>18046131</td>
+    </tr>
+    <tr>
+      <td>Attacking and Exploiting Modern Web Applications</td>
+      <td>18016162</td>
+    </tr>
+    <tr>
+      <td>Diving into Secure Access Service Edge</td>
+      <td>18002421</td>
+    </tr>
+    <tr>
+      <td>Microsoft 365 Identity and Services Exam Guide MS-100</td>
+      <td>18389871</td>
+    </tr>
+    <tr>
+      <td>Containers for Developers Handbook</td>
+      <td>18061279</td>
+    </tr>
+    <tr>
+      <td>Mastering Linux Administration</td>
+      <td>17899642</td>
+    </tr>
+    <tr>
+      <td>Network Programming and Automation Essentials</td>
+      <td>18032320</td>
+    </tr>
+    <tr>
+      <td>Certified Information Security Manager Exam Prep Guide</td>
+      <td>18010741</td>
+    </tr>
+    <tr>
+      <td>The DevOps Career Handbook</td>
+      <td>18032300</td>
+    </tr>
+    <tr>
+      <td>Professional Cloud Architect Google Cloud Certification Guide</td>
+      <td>18010122</td>
+    </tr>
+    <tr>
+      <td>The Vulnerability Researcher's Handbook</td>
+      <td>18032386</td>
+    </tr>
+    <tr>
+      <td>Linux Service Mesh</td>
+      <td>18038110</td>
+    </tr>
+    <tr>
+      <td>Linux Kernel Programming for Networking Professionals</td>
+      <td>18002023</td>
+    </tr>
+    <tr>
+      <td>The Complete Guide to DevSecOps in Depth</td>
+      <td>18354680</td>
+    </tr>
+    <tr>
+      <td>Architectural Patterns</td>
+      <td>18032455</td>
+    </tr>
+    <tr>
+      <td>Tectonics for Developing Scalable Systems</td>
+      <td>18005660</td>
+    </tr>
+    <tr>
+      <td>Infosec Strategies and Best Practices</td>
+      <td>18018168</td>
+    </tr>
+    <tr>
+      <td>Google Cloud Platform Development</td>
+      <td>18376300</td>
+    </tr>
+    <tr>
+      <td>Penetration Testing for Ethical Hackers</td>
+      <td>18302120</td>
+    </tr>
+    <tr>
+      <td>Hybrid Cloud Security</td>
+      <td>18032336</td>
+    </tr>
+    <tr>
+      <td>Windows Server Administration</td>
+      <td>18045181</td>
+    </tr>
+    <tr>
+      <td>Burp Suite Cookbook</td>
+      <td>18200610</td>
+    </tr>
+    <tr>
+      <td>Pentest+ All-in-One</td>
+      <td>18376331</td>
+    </tr>
+    <tr>
+      <td>Infrastructure Monitoring Cookbook</td>
+      <td>18002022</td>
+    </tr>
+    <tr>
+      <td>Rancher Deep Dive</td>
+      <td>18032480</td>
+    </tr>
+    <tr>
+      <td>Digital Forensics and Incident Response</td>
+      <td>18032386</td>
+    </tr>
+    <tr>
+      <td>Mastering Kubernetes</td>
+      <td>18376300</td>
+    </tr>
+    <tr>
+      <td>Backup & Recovery</td>
+      <td>18032368</td>
+    </tr>
+    <tr>
+      <td>Mastering Windows Security and Hardening</td>
+      <td>18032360</td>
+    </tr>
+    <tr>
+      <td>Building a Cybersecurity Business</td>
+      <td>18364670</td>
+    </tr>
+    <tr>
+      <td>Windows Server Administration Design from Scratch</td>
+      <td>18010162</td>
+    </tr>
+    <tr>
+      <td>Datadog Cloud Monitoring Quick Start Guide</td>
+      <td>18000657</td>
+    </tr>
+    <tr>
+      <td>Mastering Malware Analysis</td>
+      <td>18032402</td>
+    </tr>
+    <tr>
+      <td>AWS Certified Cloud Practitioner Exam Guide</td>
+      <td>18010750</td>
+    </tr>
+    <tr>
+      <td>Practical Hardware Hacking</td>
+      <td>17806201</td>
+    </tr>
+    <tr>
+      <td>Modern DevOps Practices</td>
+      <td>18006623</td>
+    </tr>
+    <tr>
+      <td>Practical Memory Forensics</td>
+      <td>18010703</td>
+    </tr>
+    <tr>
+      <td>Accelerate DevOps with Terraform</td>
+      <td>18031813</td>
+    </tr>
+    <tr>
+      <td>FPGA Programming</td>
+      <td>17868054</td>
+    </tr>
+    <tr>
+      <td>Network Automation with Ansible</td>
+      <td>18376378</td>
+    </tr>
+    <tr>
+      <td>CompTIA Security+ CASP+ CAS-004 Certification Guide</td>
+      <td>18018167</td>
+    </tr>
+    <tr>
+      <td>Terraform for Complete Cloud Automation</td>
+      <td>18046196</td>
+    </tr>
+    <tr>
+      <td>AUTOSAR Fundamentals</td>
+      <td>18051208</td>
+    </tr>
+    <tr>
+      <td>Azure Security Center</td>
+      <td>18045179</td>
+    </tr>
+    <tr>
+      <td>Data Science for Malware Analysis</td>
+      <td>18045186</td>
+    </tr>
+    <tr>
+      <td>Hands-On Python for DevOps</td>
+      <td>18300011</td>
+    </tr>
+    <tr>
+      <td>Jenkins Administrator's Guide</td>
+      <td>18388243</td>
+    </tr>
+    <tr>
+      <td>Implementing Observability for Success</td>
+      <td>18002021</td>
+    </tr>
+    <tr>
+      <td>Exam Ref AZ-304 Microsoft Azure Architect Design Certification Guide</td>
+      <td>18000680</td>
+    </tr>
+    <tr>
+      <td>Bootstrapping Service Mesh Implementations with Istio</td>
+      <td>18032466</td>
+    </tr>
+    <tr>
+      <td>The Ins and Outs of Azure VMware Solution</td>
+      <td>18018143</td>
+    </tr>
+    <tr>
+      <td>Certified Ethical Hacker (CEH) v11 Official Certified Guide</td>
+      <td>18018130</td>
+    </tr>
+    <tr>
+      <td>Code for Beginners</td>
+      <td>18376316</td>
+    </tr>
+    <tr>
+      </tr>
+      </tbody>
+  </table>
+</details>
+
+
 
 - 📫 How to reach me **nithikpradeep12@gmail.com**
-
-<h3 align="left">Published books that i have contributed to as a TE:</h3>
-| Title | ISBN |
-|---|---|
-| Building a DevOps Culture | 180024825 |
-| Azure Architecture Explained | 18376348 |
-| Mastering Tornado | 18032465 |
-| Demystifying Ansible Automation | 18032449 |
-| Mobile App Reverse Engineering | 18010733 |
-| Mastering Elastic Kubernetes Service on AWS | 18032312 |
-| The Linux DevOps Handbook | 18032456 |
-| Cryptography Algorithms | 17896171 |
-| The Art of Social Engineering | 18046136 |
-| NGINX HTTP Server | 18354698 |
-| PowerShell for Penetration Testing | 18350824 |
-| Demystifying Cryptography with OpenSSl 2.0 | 18006600 |
-| The Self-Taught Cloud Computing Engineer | 18010733 |
-| Microsoft Azure Fundamentals Certification Guide | 18061237 |
-| Linux Device Driver Development | 18032400 |
-| Industrial Cybersecurity | 18002020 |
-| Secure Continuous Delivery on Google Cloud | 180012921 |
-| Policy Design in the Age of Digital Adoption | 18011171 |
-| Obsessing with Greatness | 18032480 |
-| Security Monitoring and Detection | 163763211 |
-| Becoming CCNA Certified | 18046131 |
-| Attacking and Exploiting Modern Web Applications | 18016162 |
-| Diving into Secure Access Service Edge | 18002421 |
-| Microsoft 365 Identity and Services Exam Guide MS-100 | 18389871 |
-| Containers for Developers Handbook | 18061279 |
-| Mastering Linux Administration | 17899642 |
-| Network Programming and Automation Essentials | 18032320 |
-| Certified Information Security Manager Exam Prep Guide | 18010741 |
-| The DevOps Career Handbook | 18032300 |
-| Professional Cloud Architect Google Cloud Certification Guide | 18010122 |
-| The Vulnerability Researcher's Handbook | 18032386 |
-| Linux Service Mesh | 18038110 |
-| Linux Kernel Programming for Networking Professionals | 18002023 |
-| The Complete Guide to DevSecOps in Depth | 18354680 |
-| Architectural Patterns | 18032455 |
-| Tectonics for Developing Scalable Systems | 18005660 |
-| Infosec Strategies and Best Practices | 18018168 |
-| Google Cloud Platform Development | 18376300 |
-| Penetration Testing for Ethical Hackers | 18302120 |
-| Hybrid Cloud Security | 18032336 |
-| Windows Server Administration | 18045181 |
-| Burp Suite Cookbook | 18200610 |
-| Pentest+ All-in-One | 18376331 |
-| Infrastructure Monitoring Cookbook | 18002022 |
-| Rancher Deep Dive | 18032480 |
-| Digital Forensics and Incident Response | 18032386 |
-| Mastering Kubernetes | 18376300 |
-| Backup & Recovery | 18032368 |
-| Mastering Windows Security and Hardening | 18032360 |
-| Building a Cybersecurity Business | 18364670 |
-| Windows Server Administration Design from Scratch | 18010162 |
-| Datadog Cloud Monitoring Quick Start Guide | 18000657 |
-| Mastering Malware Analysis | 18032402 |
-| AWS Certified Cloud Practitioner Exam Guide | 18010750 |
-| Practical Hardware Hacking | 17806201 |
-| Modern DevOps Practices | 18006623 |
-| Practical Memory Forensics | 18010703 |
-| Accelerate DevOps with Terraform | 18031813 |
-| FPGA Programming | 17868054 |
-| Network Automation with Ansible | 18376378 |
-| CompTIA Security+ CASP+ CAS-004 Certification Guide | 18018167 |
-| Terraform for Complete Cloud Automation | 18046196 |
-| AUTOSAR Fundamentals | 18051208 |
-| Azure Security Center | 18045179 |
-| Data Science for Malware Analysis | 18045186 |
-| Hands-On Python for DevOps | 18300011 |
-| Jenkins Administrator's Guide | 18388243 |
-| Implementing Observability for Success | 18002021 |
-| Exam Ref AZ-304 Microsoft Azure Architect Design Certification Guide | 18000680 |
-| Bootstrapping Service Mesh Implementations with Istio | 18032466 |
-| The Ins and Outs of Azure VMware Solution | 18018143 |
-| Certified Ethical Hacker (CEH) v11 Official Certified Guide | 18018130 |
-| Code for Beginners | 18376316 |
-| Platform Engineering for Architects | 18362036 |
-| Implementing Veeam Cloud Connect | 18010702 |
-| Mastering Cloud Security Posture Management (CSPM) | 18376384 |
-| Mastering Defensive Security | 18002061 |
-| Oracle Cloud Infrastructure for Solutions Architects | 18000664 |
-| Defending APIs | 18046171 |
-| Architecting High-Performance Embedded Systems | 17090550 |
-| Hybrid Cloud Integration | 18002482 |
-| Kubernetes and Operators Explained | 18046125 |
-| Ethical Hacking Workshop | 18032386 |
-| Microsoft 365 Administration Cookbook | 18358880 |
-| Generative AI with Amazon Bedrock | 18032472 |
-| Zero Trust Overview and Framework Introduction | 18005686 |
-| Mastering Microsoft Endpoint Manager | 18010719 |
-| Smart Robotics with LEGO MINDSTORMS | 18005684 |
-| Automating Incident Response Actions | 18005604 |
-| Ethical Password Cracking | 18046112 |
-| Python Ethical Hacking from Scratch | 16368205 |
-| CompTIA Network+ N10-008 Study Guide, Second Edition | 18032360 |
-| Combating Crime on the Dark Web | 18032348 |
-| Automating DevOps with GitLab CI/CD Pipelines | 18032330 |
-| Implementing Identity Management on AWS | 18005622 |
-| Arduino and Cloud for Developers | 18376371 |
-| CISSP (ISC)² Certification Practice Exams and Tests | 18005613 |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
