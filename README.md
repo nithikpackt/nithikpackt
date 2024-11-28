@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nithik</h1>
-<h3 align="center">I work as a Technical Editor for Packt</h3>
+![Header](image.png)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithikpackt&label=Profile%20views&color=0e75b6&style=flat" alt="nithikpackt" /> </p>
 
